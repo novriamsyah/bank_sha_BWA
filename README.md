@@ -22,6 +22,7 @@ https://youtube.com/shorts/NK1ZIcazj1s?feature=share
       <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/226522323-3f3082b4-beff-4f7e-9943-489cb7b7f5b6.png" width="210" height="410">
       </td>
     </tr>
+</table>
 
 ## Installation
 
