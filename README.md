@@ -1,16 +1,38 @@
-# bank_sha
+# Bank Sha
 
-A new Flutter project.
+Aplikasi Bank Sha merupakan aplikasi bank sederhana yang bisa melakukan transaksi seperti transfer antar bank, top up uang dan melakukan pengisian paket data internet.
 
-## Getting Started
+Aplikasi Bank Sha dikembangkan menggunakan Framework Flutter & Laravel
 
-This project is a starting point for a Flutter application.
+## Demo Bank Sha
 
-A few resources to get you started if this is your first Flutter project:
+https://youtube.com/shorts/NK1ZIcazj1s?feature=share
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tampilan Bank Sha
+
+- onboarding
+
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/226517769-6b52b11f-f10f-4751-bd4c-93965496b971.png" width="250" height="450">
+<br>
+
+- Login
+
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/226521982-470b28bc-0749-421c-b2a4-10c45a36a8f2.png" width="250" height="450">
+<br>
+
+- Home Page
+
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/226522323-3f3082b4-beff-4f7e-9943-489cb7b7f5b6.png" width="250" height="450">
+
+## Installation
+
+Install Bank Sha
+
+```bash
+    clone this project
+    flutter pub get
+    flutter run
+
+```
